@@ -1,0 +1,1 @@
+{"maxdrawdown": 1.5493353103921008, "maxdrawdownperiod": 763}

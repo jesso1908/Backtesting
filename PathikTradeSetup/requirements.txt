@@ -1,0 +1,13 @@
+                         Trapping Inside Bar Positional Setup
+On crypto Stocks
+
+Combination of 5 candles
+First 4 candle shoudl be N4B+IB
+NR4-last candle should be the narrowest candle of last 4 candles
+IB- last candle should be completely inside previous candle
+5 th candle should be outside bar(should cover previous candle bar)
+For buy- close above previous high
+For sell -close below previous low
+
+
+
